@@ -5,9 +5,9 @@
 
 - 🎶 I really like music, not a specific genre. (I really love Serwerslvt music tho).
 - 😌 Professional Touhou fan.
-- 💬 Ask me about... <- Pls no.
+- 💬 Ask me about... <- dunno, something fun I guess.
 - 📫 How to reach me: daniel.parra216710@potros.itson.edu.mx
-- 😄 Pronouns: Astolfo <- From FGO. <- I'm not a Fate fan, don't ask me about Fate.
+- 😄 I like: Astolfo <- From FGO. <- I'm not a Fate fan, don't ask me about Fate.
 - ⚡ Fun fact: There is none...
 
 <h3 align="left">Languages and Tools I use:</h3>
