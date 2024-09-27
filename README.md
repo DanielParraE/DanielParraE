@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://i.pinimg.com/564x/03/be/c9/03bec91d7b323534e626a428f59959ba.jpg"  />
 </div>
 
