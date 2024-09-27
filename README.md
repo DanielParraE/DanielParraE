@@ -2,17 +2,11 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">🎶 I really like music, not a specific genre. (I really love Serwerslvt music tho).<br>😌 Professional Touhou fan.<br>💬 Ask me about... <- dunno, something fun I guess.<br>📫 How to reach me: daniel.parra216710@potros.itson.edu.mx<br>😄 I like: Astolfo (I'm not a Fate fan, don't ask me about Fate), manga panels and pathetic characters (like Kobeni from CSM).<br>⚡ Fun fact: Sometimes, my brain melts leaving me useless. 😊</p>
+<img align="right" height="200" src="https://i.pinimg.com/564x/03/be/c9/03bec91d7b323534e626a428f59959ba.jpg"  />
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/03/be/c9/03bec91d7b323534e626a428f59959ba.jpg"  />
-</div>
+<p align="left">- 🎶 I really like music, not a specific genre. (I really love Serwerslvt/Cynthoni music tho).<br>- 😌 Professional Touhou fan.<br>- 💬 Ask me about... <- dunno, something fun I guess.<br>- 📫 How to reach me: daniel.parra216710@potros.itson.edu.mx<br>- 😄 I like: Astolfo (I'm not a Fate fan, don't ask me about Fate), manga panels and pathetic characters (like Kobeni from CSM).<br>- ⚡ Fun fact: Sometimes, my brain melts leaving me useless. 😊</p>
 
 ###
 
