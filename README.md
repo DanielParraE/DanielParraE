@@ -10,6 +10,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Tech and tools I use</h2>
 
 ###
